@@ -2,6 +2,7 @@
   "name": "simplefolio",
   "version": "1.0.1",
   "private": "true",
+  "homepage":"https://dilvojunior.github.io/mypage/",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "source": "src/index.html",
   "scripts": {
@@ -19,7 +20,6 @@
   "bugs": {
     "url": "https://github.com/cobiwave/simplefolio/issues"
   },
-  "homepage": "https://github.com/cobiwave/simplefolio#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "gh-pages": "^6.2.0",
